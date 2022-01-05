@@ -1,5 +1,5 @@
 
-## Componentes em React
+## Componentes em  React.JS
 
 
 ###  Construção  de componentes 
@@ -15,4 +15,3 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Componentes-em-React_JS
